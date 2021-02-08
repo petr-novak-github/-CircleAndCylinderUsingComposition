@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CircleCylinderClassComposition", "CircleCylinderClassComposition.csproj", "{2841841F-948D-44ED-ABA7-17B79359710D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2841841F-948D-44ED-ABA7-17B79359710D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2841841F-948D-44ED-ABA7-17B79359710D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2841841F-948D-44ED-ABA7-17B79359710D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2841841F-948D-44ED-ABA7-17B79359710D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B2149D3B-B418-44D5-9A99-A40C380C4F29}
+	EndGlobalSection
+EndGlobal

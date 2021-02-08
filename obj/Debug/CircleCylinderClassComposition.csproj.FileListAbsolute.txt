@@ -1,0 +1,7 @@
+C:\Users\petr8\Desktop\cSharpRekavalifikace\12-ucim-se-2021-02-08\01-CircleCylinderClassComposition\stuf\CircleCylinderClassComposition\bin\Debug\CircleCylinderClassComposition.exe.config
+C:\Users\petr8\Desktop\cSharpRekavalifikace\12-ucim-se-2021-02-08\01-CircleCylinderClassComposition\stuf\CircleCylinderClassComposition\bin\Debug\CircleCylinderClassComposition.exe
+C:\Users\petr8\Desktop\cSharpRekavalifikace\12-ucim-se-2021-02-08\01-CircleCylinderClassComposition\stuf\CircleCylinderClassComposition\bin\Debug\CircleCylinderClassComposition.pdb
+C:\Users\petr8\Desktop\cSharpRekavalifikace\12-ucim-se-2021-02-08\01-CircleCylinderClassComposition\stuf\CircleCylinderClassComposition\obj\Debug\CircleCylinderClassComposition.csprojAssemblyReference.cache
+C:\Users\petr8\Desktop\cSharpRekavalifikace\12-ucim-se-2021-02-08\01-CircleCylinderClassComposition\stuf\CircleCylinderClassComposition\obj\Debug\CircleCylinderClassComposition.csproj.CoreCompileInputs.cache
+C:\Users\petr8\Desktop\cSharpRekavalifikace\12-ucim-se-2021-02-08\01-CircleCylinderClassComposition\stuf\CircleCylinderClassComposition\obj\Debug\CircleCylinderClassComposition.exe
+C:\Users\petr8\Desktop\cSharpRekavalifikace\12-ucim-se-2021-02-08\01-CircleCylinderClassComposition\stuf\CircleCylinderClassComposition\obj\Debug\CircleCylinderClassComposition.pdb
